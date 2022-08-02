@@ -13,6 +13,3 @@
     * F1-score
     * ROC AUC
 
----
-
-footnote
