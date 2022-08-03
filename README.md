@@ -13,7 +13,8 @@
     * F1-score
     * ROC AUC
 	
-	
+<hr>
+
 **Data Model** - merge and union data to prepare the dataframe
 
 ![data model](./img/data_model.jpeg)
