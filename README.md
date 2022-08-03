@@ -16,5 +16,5 @@
 	
 ** Data Model ** - merge and union data to prepare the dataframe
 
-[data model](!img/data_model.jpeg)
+[data model]！(img/data_model.jpeg)
 
