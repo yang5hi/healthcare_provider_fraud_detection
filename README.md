@@ -13,8 +13,7 @@
     * F1-score
     * ROC AUC
 	
-<hr>
-
+## EDA
 **Data Model** - merge and union data to prepare the dataframe
 
 ![data model](./img/data_model.jpeg)
