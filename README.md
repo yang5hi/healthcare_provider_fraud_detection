@@ -1,4 +1,4 @@
-# Healthcare Provider Fraud Detection
+![Title](./img/title.JPG)
 
 **Classification** - predict the potentially fraudulent providers based on the healthcare claims filed
 
