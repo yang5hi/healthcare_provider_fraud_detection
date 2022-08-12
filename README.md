@@ -18,3 +18,6 @@
 
 ![data model](./img/data_model.jpeg)
 
+## Bench Model
+
+![model flowchart](./img/Flowcharts.jpeg)
