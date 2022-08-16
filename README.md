@@ -1,6 +1,6 @@
 ![Title](./img/title.JPG)
 
-[[toc]]
+[[_TOC_]]
 
 **Classification** - predict the potentially fraudulent providers based on the healthcare claims filed
 
